@@ -77,6 +77,9 @@ Este projeto foi desenvolvido com foco no aprendizado de:
 - Interação entre JavaScript e interface do usuário
 Ele faz parte da minha jornada de aprendizado em Desenvolvimento Front-End, com foco em JavaScript e React.
 ---
+## 🔗 Acesse o projeto online:
+- https://alexsandergs.github.io/fokus/
+---
 ## 📸 Preview
 <img width="1867" height="955" alt="image" src="https://github.com/user-attachments/assets/b49ad835-4525-4015-b230-df3babe06505" />
 
